@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 26 18:07:28 2023
 
-@author: Sheet gupta
-"""
 
 import requests
 
